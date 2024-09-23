@@ -1,4 +1,4 @@
-#Suma de dos núumeros
+#Suma de dos números
 numero1 = int(input("Ingresa un número: "))
 numero2 = int(input("Ingresa otro número: "))
 
